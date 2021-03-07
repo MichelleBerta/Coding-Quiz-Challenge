@@ -11,7 +11,7 @@ text content,
 local storage, and
 query selectors.
 
-https://michelleberta.github.io/unit-4-homework/
+https://michelleberta.github.io/coding-quiz-challenge/
 
 ![coding-quiz](Assets/images/coding-quiz.png)
 ![coding-quiz-2](Assets/images/coding-quiz-2.png)
